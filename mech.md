@@ -1,7 +1,3 @@
-Sure! Here’s your roadmap rewritten as a **clean, well-formatted Markdown document** — perfect for use in documentation, GitHub repos, or project planning tools like Notion or Linear.
-
----
-
 # 🗺️ Project Roadmap: Full-Stack Service Platform
 
 **Tech Stack:**
